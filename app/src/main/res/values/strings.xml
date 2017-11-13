@@ -5,4 +5,10 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="recent">Recent</string>
+    <string name="settings">Settings</string>
+    <string name="favourite">Favourite</string>
+    <string name="favourites">Favourites</string>
+    <string name="com.mapbox.mapboxsdk.accessToken" translatable="false">pk.eyJ1IjoiZ3JvdXAzaGNpIiwiYSI6ImNqOXhkZTU0MDB0bnAzM3Bva2JyY2M2Mm8ifQ.wimKY4mWCu4Pr8SIOlR_Qg</string>
 </resources>
+
